@@ -1,0 +1,2 @@
+# accounting-system
+Учебный проект
